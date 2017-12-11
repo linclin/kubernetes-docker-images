@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.2
-MAINTAINER Jason.lui <piml.lui@gmail.com>
+FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.5
+MAINTAINER Linc <13579443@qq.com>
